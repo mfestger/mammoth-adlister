@@ -1,4 +1,10 @@
-<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
+<%--
+  Created by IntelliJ IDEA.
+  User: michaelfestger
+  Date: 6/7/17
+  Time: 4:17 PM
+  To change this template use File | Settings | File Templates.
+--%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
@@ -7,9 +13,10 @@
     </jsp:include>
 </head>
 <body>
-<jsp:include page="partials/navbar.jsp" />
+<jsp:include page="partials/navbar.jsp"/>
 <div class="container">
-    <h1>Welcome to the Adlister!</h1>
+    <h1>Users</h1>
+
 </div>
 </body>
 </html>
