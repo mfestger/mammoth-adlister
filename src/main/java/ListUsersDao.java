@@ -4,9 +4,6 @@
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by Fer on 6/7/17.
- */
 public class ListUsersDao implements Users{
 
     List<User> users;
